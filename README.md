@@ -6,7 +6,7 @@ This project is a voice translation assistant built using **Watsonx** and **IBM 
 
 The app features a responsive frontend built with HTML, CSS, and JavaScript, and a reliable backend powered by Python and Flask.
 
-Try the [demo app](#) to see the final application in action.
+Try the [demo app](https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud/) to see the final application in action.
 
 ---
 
